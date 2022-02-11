@@ -70,6 +70,7 @@
 #white-bar {
   background: #fff;
 }
+
 #blue-bar {
   background: repeating-linear-gradient(
     -45deg,
@@ -79,6 +80,7 @@
     rgb(125, 204, 228, 0.8) 6px
     );
 }
+
 #yellow-bar {
   background: repeating-linear-gradient(
     -45deg,
